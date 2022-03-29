@@ -1,3 +1,4 @@
 "This is File A - Updated - Branch - Master - Added File D - 3 Way merge" 
 "Merge 3 way"
 "3 way merge again"
+Github Integration - Version 1
